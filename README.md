@@ -7,3 +7,5 @@
 #
 
 ![github-large](https://github.com/ncnilton/metabase/blob/main/Metabase.gif)
+#
+##### Os dados foram tratados com Python (Jupyter Notebook)
