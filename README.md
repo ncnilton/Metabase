@@ -4,7 +4,7 @@
 
 #### Para compartilhamento on-line é necessário contratar na plataforma os serviços necessário.
 
-#### Abaixo deixo um vídeo, apresentando os recursos do Dashboard interativo que criei utilizando alguns dados fornecidos pelo [Portal de Dados Abertos](https://dados.gov.br/home)
+#### Abaixo deixo um vídeo, apresentando o Dashboard interativo que criei utilizando alguns dados fornecidos pelo [Portal de Dados Abertos](https://dados.gov.br/home)
 #
 
 ![github-large](https://github.com/ncnilton/metabase/blob/main/Metabase.gif)
